@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3240 2160" width="3240" height="2160">
+	<title>New Project</title>
+	<style>
+		.s0 { fill: #02ccfe } 
+		.s1 { fill: #ffce07;stroke: #e87524;stroke-width: 150 } 
+		.s2 { fill: #b7bf33 } 
+		.s3 { fill: #799b3e } 
+		.s4 { fill: #37573d } 
+	</style>
+	<path id="Shape 4" class="s0" d="m0 0h3240v2160h-3240z"/>
+	<path id="Shape 3" class="s1" d="m1620 1780c-387.1 0-700-312.9-700-700 0-387.1 312.9-700 700-700 387.1 0 700 312.9 700 700 0 387.1-312.9 700-700 700z"/>
+	<path id="Shape 1" class="s2" d="m0 1080h3240v360h-3240z"/>
+	<path id="Shape 1 copy" class="s2" d="m0 1080h3240v360h-3240z"/>
+	<path id="Shape 2" class="s3" d="m0 1440h3240v360h-3240z"/>
+	<path id="Shape 2 copy" class="s4" d="m0 1800h3240v360h-3240z"/>
+</svg>
